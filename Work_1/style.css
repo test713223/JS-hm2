@@ -1,0 +1,10 @@
+div{
+    width: 30%;
+    height: 200px;
+    background-color: bisque;
+    cursor: url(p1.jpg),auto; /*圖片載入失敗,自動改成預設游標*/
+}
+p{
+    height: 30px;
+    font-size: large;
+}
